@@ -1,6 +1,8 @@
 # Levinson 2u 40% Custom Default
 
-This is a custom default layout for the Levinson 2u 40% split ortholinear keyboard by Keebio from keeb.io Download my keymap above to see the keymap in your favorite source code editor. Move it to your QMK_Firmware folder to keyboards/keebio/levinson/keymaps if you ever want to flash it again. There are many guides on flashing your Pro Micro (ATmega32u4) on YouTube and r/mechanicalkeyboards
+This is a custom default layout for the Levinson 2u 40% split ortholinear keyboard by Keebio from keeb.io Download my keymap above to see the keymap in your favorite source code editor. Move it to your QMK_Firmware folder to: 
+"keyboards/keebio/levinson/keymaps" 
+if you ever want to flash it again. There are many guides on flashing your Pro Micro (ATmega32u4) on YouTube and r/mechanicalkeyboards
 
 ## Flashing your Keyboard; Assuming you use Windows
 
